@@ -1,0 +1,3 @@
+[submodule "libs.pretty"]
+	path = libs.pretty
+	url = git@github.com:corecode/kicad-libs.git
