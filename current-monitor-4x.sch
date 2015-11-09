@@ -114,11 +114,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "2x Isolated Current Monitor"
+Date "2015-11-08"
+Rev "1.0"
+Comp "sternlabs"
+Comment1 "(c) 2015 Simon Schubert"
 Comment2 ""
 Comment3 ""
 Comment4 ""
